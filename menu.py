@@ -55,4 +55,4 @@ def print_bill():
 display_menu()
 take_order()
 print_bill()
-#This is AI Generated!🤶
+#This is AI Generated!
